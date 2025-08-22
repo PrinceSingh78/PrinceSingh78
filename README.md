@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prince kumar singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince kumar singh" height="30" width="40" /></a>
-<a href="https://instagram.com/prince_singh004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince_singh004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prince-kr-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prince-kr-singh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dippp0yg3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dippp0yg3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prince-kumar-singh-242a4522a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince kumar singh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prince__singh004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince_singh004" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Prince-Kr-Singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prince-kr-singh" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/dippp0yg3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dippp0yg3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
