@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princesingh78&label=Profile%20views&color=0e75b6&style=flat" alt="princesingh78" /> </p>
 
-- 🌱 I’m currently learning **React , Node Js , C++**
+- 🌱 I’m currently learning **React , Node Js , DSA**
 
 - 💬 Ask me about **Web Dev, DSA , GenAI**
 
